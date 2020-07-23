@@ -1,0 +1,28 @@
+.main{
+    display: flex;
+    flex-direction: row;
+}
+.d{
+    text-align: center;
+}
+.s{
+    text-align: center;
+}
+.image{
+    width: 470px;
+    height: 200px;
+}
+
+
+.BigText{
+    font-size: 30px;
+}
+
+.smText{
+    font-size: 15px;
+}
+
+.w{
+    text-align: center;
+}
+
